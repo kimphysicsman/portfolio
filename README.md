@@ -34,7 +34,7 @@
 > 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
 >
 > - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 여행추천 알고리즘 작성, React로 Front개발
+> - 핵심 역할 : 팀장, 여행추천 알고리즘 작성, React로 Front개발
 > - 기술스택 : python3, Django, Django-rest-framework, Node.js, React.js, sqlite3, PostreSQL
 >
 > [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
@@ -47,7 +47,7 @@
 > 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
 > - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : Generative model 사용
+> - 핵심 역할 : 팀장, Generative model 사용
 > - 기술스택 : python3, Django, Django-rest-framework, sqlite3
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
@@ -59,7 +59,7 @@
 > 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
 >
 > - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : Data 전처리 및 추천 알고리즘 작성
+> - 핵심 역할 : 팀장, Data 전처리 및 추천 알고리즘 작성
 > - 기술스택 : python3, Django, sqlite3, MySQL, Javascript
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
@@ -71,7 +71,7 @@
 > 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
 >
 > - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : CNN 모델 성능 비교 및 적용
+> - 핵심 역할 : 팀장, CNN 모델 성능 비교 및 적용
 > - 기술스택 : python3, Flask, mongoDB
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
@@ -95,7 +95,7 @@
 > 1980-2010년 뮤직 웹사이트 _(메이킹챌린지 - 코딩왕조 팀프로젝트)_
 >
 > - 개발기간 : 2022.03.02-17
-> - 핵심 역할 : 노래 재생 기능, 좋아요 기능
+> - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
 > - 기술스택 : python3, flask, mongoDB, Javascript
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
