@@ -27,7 +27,7 @@
 >
 >> Back-end
 >> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostreSQL
+>> - Skill : Django, Django-rest-framework, PostgreSQL
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
 >
@@ -39,7 +39,7 @@
 
 <br />
 
-## 2. 👞 MyLittleShose
+## 2. 👞 MyLittleShoes
 
 > 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
