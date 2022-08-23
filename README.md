@@ -6,29 +6,18 @@
 
 # 👋 Intro
 
-> 안녕하세요! 제가 생각하는 저의 강점은 **"새로운 것을 배우려는 욕구과 이해하는 능력"** 입니다.  
-> 3월에 메이킹챌린지와 4월부터 내일배움캠프에서 **팀장**을 맡으면서 리더십을 인정받을 수 있었고   
-> 팀원들과 스터디를 통해 내가 이해하는 내용을 남에게 설명하는 능력을 길러 **영상**도 남길 수 있었습니다.  
+> 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 김동우입니다!  
+> 5개월간 ***팀장***을 맡으며 팀 프로젝트를 진행하여 백엔드 개발자 역량을 길렀고  
+> 내가 이해한 내용을 다른 사람들에게 설명하며 함께 성장할 수 있는 ***영상***으로 기록할 수 있었습니다.  
 > 저에대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
 
-<br />
-
-# 📞 Contact
-
-- 이메일 : kimphysicsman@gmail.com
-- 블로그 : <a href="https://velog.io/@kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
-  </a>
-- 깃허브 : <a href="https://github.com/kimphysicsman">
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
-- 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
-  </a>
 
 <br />
 
 # 📝Projects
+5개월간 팀장을 맡으며 진행했던 프로젝트들 입니다!  
+팀장으로서는 운영적인 면과 팀원들 학습 관리, 프로젝트 일정 관리 등 많은 경험을 할 수 있었고,  
+프로젝트 역할면에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
 
 ## 1. 🛫 MyLittleTrip
 
@@ -139,3 +128,19 @@
   </tbody>
 </table>
 > <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+
+
+<br />
+
+# 📞 Contact
+
+- 이메일 : kimphysicsman@gmail.com
+- 블로그 : <a href="https://velog.io/@kimphysicsman">
+  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
+  </a>
+- 깃허브 : <a href="https://github.com/kimphysicsman">
+  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+  </a>
+- 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
+  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
+  </a>
