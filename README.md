@@ -6,10 +6,10 @@
 
 # 👋 Intro
 
-> 안녕하세요! "성장하는 개발자" 김동우입니다.  
-> 2022년 2월부터 웹개발에 대해 관심과 흥미를 가지고 여러가지를 배우고 있습니다.   
-> 본 페이지는 백엔드 개발자로 성장하기위한 저의 주요 행적들을 기록한 곳입니다.  
-> 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
+> 안녕하세요! 제가 생각하는 저의 강점은 **"새로운 것을 배우려는 욕구과 이해하는 능력"** 입니다.  
+> 3월에 메이킹챌린지와 4월부터 내일배움캠프에서 **팀장**을 맡으면서 리더십을 인정받을 수 있었고   
+> 팀원들과 스터디를 통해 내가 이해하는 내용을 남에게 설명하는 능력을 길러 **영상**도 남길 수 있었습니다.  
+> 저에대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
 
 <br />
 
@@ -36,10 +36,18 @@
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 핵심 역할 : 팀장, 여행추천 알고리즘 작성, React로 Front개발
-> - 기술스택 : python3, Django, Django-rest-framework, Node.js, React.js, sqlite3, PostreSQL
 >
-> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
-> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> Back-end
+>> - Language : python3  
+>> - Skill : Django, Django-rest-framework, PostreSQL
+>> 
+>> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>
+>> Front-end
+>> - Language : javascript
+>> - Skill : React.js
+>>
+>> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 <br />
 
@@ -49,7 +57,8 @@
 >
 > - 개발기간 : 2022.06.28-07.06
 > - 핵심 역할 : 팀장, Generative model 사용
-> - 기술스택 : python3, Django, Django-rest-framework, sqlite3
+> - Language : python3
+> - Skill : Django, Django-rest-framework
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
@@ -61,7 +70,8 @@
 >
 > - 개발기간 : 2022.06.02-13
 > - 핵심 역할 : 팀장, Data 전처리 및 추천 알고리즘 작성
-> - 기술스택 : python3, Django, sqlite3, MySQL, Javascript
+> - Language : python3, javascript
+> - Skill : Django, MySQL
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
 
@@ -73,7 +83,8 @@
 >
 > - 개발기간 : 2022.05.18-25
 > - 핵심 역할 : 팀장, CNN 모델 성능 비교 및 적용
-> - 기술스택 : python3, Flask, mongoDB
+> - Language : python3   
+> - Skill : flask, mongoDB
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
 
@@ -84,8 +95,8 @@
 > 2d 횡스크롤 격투 게임 _(내일배움캠프 - 개인 프로젝트)_
 >
 > - 개발기간 : 2022.04.25-27
-> - 핵심 역할 : 캐릭터 클래스, 이벤트 루프
-> - 기술스택 : python3, pygame
+> - 핵심 역할 : 캐릭터 클래스 생성, 이벤트 루프
+> - Language : python3
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
 
@@ -97,7 +108,8 @@
 >
 > - 개발기간 : 2022.03.02-17
 > - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
-> - 기술스택 : python3, flask, mongoDB, Javascript
+> - Language : python3, javascript
+> - Skill : flask, mongoDB
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
 
